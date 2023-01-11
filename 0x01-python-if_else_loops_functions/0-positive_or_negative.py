@@ -6,4 +6,4 @@ if number < 0:
 elif number == 0:
     print(f"{number} is zero")
 else:
-sh: 1: wq: not found
+    print(f"{number} is positive")
