@@ -9,5 +9,5 @@ def fizzbuzz():
             print("Fizz", end="")
         elif number % 5 == o:
             print("Buzz", end="")
-        else
+        else:
             print("{}".format(number), end="")
