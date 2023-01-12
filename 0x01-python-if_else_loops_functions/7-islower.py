@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 # 7-islower.py
-
+"""Check for lowercase characters."""
 def islower(c):
-	 """Check for lowercase characters."""
-		 if ord(c) >= 97 and ord(c) <= 122:
-		 	return True
+    if ord(c) >= 97 and ord(c) <= 122:
+		 	return True;
 		 else:
-		 	return False
+		 	return False;
